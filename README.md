@@ -4,8 +4,8 @@
 The Climate Change Action Assistant is an app that can give insights into current Climate Change Legislation and progress. The assistant can summarise and answer questions sourced from the Climate Change Consortium's publications.
 
 ## Features
-**Document Processing** : Directly loads and processes PDF publications from the Climate Change Consortium.
-**Query-Based Summaries**: Users can ask specific questions and get concise summaries or details based on their queries.
+**Document Processing** : Directly loads and processes PDF publications.
+**Query-Based Summaries**: Users can ask specific questions and get response based their queries.
 **Vector-Based Search**: Efficient and semantic search mechanism thanks to embedding the documents into vectors.
 
 ## Technologies Used
